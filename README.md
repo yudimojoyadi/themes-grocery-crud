@@ -1,3 +1,3 @@
 
-# Bootsrap & Twitter Bootstrap Grocery Crud
-Themes for grocery crud.
+# Mod Bootsrap dan Twitter Bootstrap untuk Grocery crud
+Tema bootstrap dan twitter bootstrap untuk grocery crud versi 1.5.8
